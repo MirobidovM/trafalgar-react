@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/trafalgar-react/static/css/main.cd13a15d.css",
+    "main.js": "/trafalgar-react/static/js/main.2b414bcb.js",
+    "static/media/intro.png": "/trafalgar-react/static/media/intro.9a854824aa50b5aabf7d.png",
+    "static/media/download.png": "/trafalgar-react/static/media/download.e0b92546e73396b8fc3a.png",
+    "static/media/leading.png": "/trafalgar-react/static/media/leading.ab7e7d4a8f01ec8cda00.png",
+    "static/media/maska.jpg": "/trafalgar-react/static/media/maska.e94b7e2b733cff36b46d.jpg",
+    "static/media/ukol.jpg": "/trafalgar-react/static/media/ukol.cc4fbb493875c5f43265.jpg",
+    "static/media/durbin.jpg": "/trafalgar-react/static/media/durbin.6e90997b1a29964ad06e.jpg",
+    "static/media/mulish-v10-latin-regular.woff": "/trafalgar-react/static/media/mulish-v10-latin-regular.68d667d71851a1ff203b.woff",
+    "static/media/mulish-v10-latin-700.woff": "/trafalgar-react/static/media/mulish-v10-latin-700.08f96c0352d1f8545f6a.woff",
+    "static/media/mulish-v10-latin-300.woff": "/trafalgar-react/static/media/mulish-v10-latin-300.0101fe38a6d493014a29.woff",
+    "static/media/mulish-v10-latin-regular.woff2": "/trafalgar-react/static/media/mulish-v10-latin-regular.789d075c570d16d02c38.woff2",
+    "static/media/mulish-v10-latin-700.woff2": "/trafalgar-react/static/media/mulish-v10-latin-700.50a7b6b6469d71bf28b0.woff2",
+    "static/media/mulish-v10-latin-300.woff2": "/trafalgar-react/static/media/mulish-v10-latin-300.9cc6cf658a6e47ac474e.woff2",
+    "static/media/info.svg": "/trafalgar-react/static/media/info.1925725b8781d7a08fce551bf015e4a5.svg",
+    "static/media/rezume.svg": "/trafalgar-react/static/media/rezume.b4638a602d5d9a0abd1116a7cfef5edf.svg",
+    "static/media/asperin.svg": "/trafalgar-react/static/media/asperin.42c82376eeb8ecad21b68cfe3d99b5d6.svg",
+    "static/media/logo-dark.svg": "/trafalgar-react/static/media/logo-dark.4d336298a520635b658cbbeaff1ee5ad.svg",
+    "static/media/logo-white.svg": "/trafalgar-react/static/media/logo-white.867448810253e0a5b872bf4f9bfa1173.svg",
+    "static/media/aptechka.svg": "/trafalgar-react/static/media/aptechka.40104c1fbb1581c22799704ec034b687.svg",
+    "static/media/person.svg": "/trafalgar-react/static/media/person.134b6b51dad2b36a3c7b9507b07d45b5.svg",
+    "static/media/lupa.svg": "/trafalgar-react/static/media/lupa.49447e6c88b3f05ee9b4de8461b1e2aa.svg",
+    "static/media/arow.svg": "/trafalgar-react/static/media/arow.53e63e3a808bb4200cb3a0a5874a261e.svg",
+    "index.html": "/trafalgar-react/index.html",
+    "main.cd13a15d.css.map": "/trafalgar-react/static/css/main.cd13a15d.css.map",
+    "main.2b414bcb.js.map": "/trafalgar-react/static/js/main.2b414bcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd13a15d.css",
+    "static/js/main.2b414bcb.js"
+  ]
+}
