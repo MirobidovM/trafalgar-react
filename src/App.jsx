@@ -13,7 +13,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div>
+    <>
       <Header />
       <Intro />
       <Services />
@@ -23,7 +23,7 @@ function App() {
       <WhatArow />
       <Check />
       <Footer />
-    </div>
+    </>
   );
 }
 
