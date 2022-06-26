@@ -3,7 +3,7 @@ import logo from '../assets/img/logo-dark.svg';
 function Header() {
   return (
     <div className="container header">
-      <a classNameName="header-logo" href="#">
+      <a classNameName="header-logo" href="/">
         <img
           className="header-logo-img"
           src={logo}
@@ -15,31 +15,31 @@ function Header() {
 
       <ul className="header-list">
         <li className="header-item">
-          <a className="header-links header-link-active" href="">
+          <a className="header-links header-link-active" href="/">
             Home
           </a>
         </li>
 
         <li className="header-item">
-          <a className="header-links" href="#">
+          <a className="header-links" href="/">
             Find a doctor
           </a>
         </li>
 
         <li className="header-item">
-          <a className="header-links" href="#">
+          <a className="header-links" href="/">
             Apps
           </a>
         </li>
 
         <li className="header-item">
-          <a className="header-links" href="#">
+          <a className="header-links" href="/">
             Testimonials
           </a>
         </li>
 
         <li className="header-item">
-          <a className="header-links" href="#">
+          <a className="header-links" href="/">
             About us
           </a>
         </li>

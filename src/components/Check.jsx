@@ -27,7 +27,7 @@ function Check() {
               In this case, the role of the health <br />
               laboratory is very important to do <br />a disease detection...
             </p>
-            <a className="check-link" href="#">
+            <a className="check-link" href="/">
               Read more
             </a>
           </div>
@@ -52,7 +52,7 @@ function Check() {
               at this time because of its very good <br />
               for your health...
             </p>
-            <a className="check-link" href="#">
+            <a className="check-link" href="/">
               Read more
             </a>
           </div>
@@ -77,7 +77,7 @@ function Check() {
               now and also for your skin health. <br />
               There are some...
             </p>
-            <a className="check-link" href="#">
+            <a className="check-link" href="/">
               Read more
             </a>
           </div>
@@ -85,7 +85,7 @@ function Check() {
       </ul>
       <br />
 
-      <a className="check-view-all" href="#">
+      <a className="check-view-all" href="/">
         View-all
       </a>
     </div>

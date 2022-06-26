@@ -10,10 +10,11 @@ function What() {
         <img
           className="what-img"
           src={what}
-          alt="person picture"
+          alt="person"
           width={141}
           height={141}
         />
+
         <h4 className="what-text">
           Edward Newgate <br />
           <span className="what-text-d">Founder Circle</span>

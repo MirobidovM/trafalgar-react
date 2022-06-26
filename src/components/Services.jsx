@@ -114,7 +114,7 @@ function Services() {
         </li>
       </ul>
 
-      <a className="learn-more-link services-link" href="#">
+      <a className="learn-more-link services-link" href="/">
         Learn more
       </a>
     </div>

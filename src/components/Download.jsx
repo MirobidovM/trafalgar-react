@@ -12,7 +12,7 @@ function Download() {
           administrative hassle) and securely
         </p>
 
-        <a className="download-link" href="#">
+        <a className="download-link" href="/">
           Download
         </a>
       </div>

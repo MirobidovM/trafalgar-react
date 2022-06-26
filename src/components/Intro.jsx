@@ -10,7 +10,7 @@ function Intro() {
           on mobile and online for everyone
         </p>
 
-        <a className="intro-link" href="#">
+        <a className="intro-link" href="/">
           Consult today
         </a>
       </div>

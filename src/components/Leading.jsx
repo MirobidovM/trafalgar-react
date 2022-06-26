@@ -20,7 +20,7 @@ function Leading() {
           pride in the solutions we deliver
         </p>
 
-        <a className="learn-more-link" href="#">
+        <a className="learn-more-link" href="/">
           Learn more
         </a>
       </div>

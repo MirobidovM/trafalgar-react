@@ -3,7 +3,7 @@ import whatArow from '../assets/img/arow.svg';
 function WhatArow() {
   return (
     <div class="what-arow">
-      <a class="what-arow-link" href="#">
+      <a class="what-arow-link" href="/">
         <img
           class="what-arow-img"
           src={whatArow}
