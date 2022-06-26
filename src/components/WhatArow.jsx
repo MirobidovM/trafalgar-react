@@ -2,10 +2,10 @@ import whatArow from '../assets/img/arow.svg';
 
 function WhatArow() {
   return (
-    <div class="what-arow">
-      <a class="what-arow-link" href="/">
+    <div className="what-arow">
+      <a className="what-arow-link" href="/">
         <img
-          class="what-arow-img"
+          className="what-arow-img"
           src={whatArow}
           alt="arow"
           width={340}
