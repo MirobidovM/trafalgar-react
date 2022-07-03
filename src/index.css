@@ -1,4 +1,3 @@
-/* mulish-300 - latin */
 @font-face {
   font-family: 'Mulish';
   font-style: normal;
@@ -8,7 +7,6 @@
     url('assets/fonts/mulish-v10-latin-300.woff') format('woff');
 }
 
-/* mulish-regular - latin */
 @font-face {
   font-family: 'Mulish';
   font-style: normal;
@@ -19,7 +17,6 @@
     url('assets/fonts/mulish-v10-latin-regular.woff') format('woff');
 }
 
-/* mulish-700 - latin */
 @font-face {
   font-family: 'Mulish';
   font-style: normal;
