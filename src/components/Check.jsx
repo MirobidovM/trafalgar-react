@@ -6,7 +6,9 @@ function Check() {
   return (
     <div className='container check'>
       <h2 className='check-title'>Check out our latest article</h2>
+
       <hr className='check-line' />
+
       <ul className='check-list'>
         <li className='check-item'>
           <img
