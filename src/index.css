@@ -440,6 +440,7 @@ ul {
   color: #000000;
   mix-blend-mode: normal;
 }
+
 .check-line {
   width: 56px;
   height: 2px;
@@ -448,10 +449,12 @@ ul {
   background: #000000;
   border-radius: 5px;
 }
+
 .check-list {
   display: flex;
   margin-top: 79px;
 }
+
 .check-item {
   width: 30%;
   margin-right: 34px;
@@ -459,6 +462,7 @@ ul {
   box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
   border-radius: 20px;
 }
+
 .check-img {
   border-radius: 20px 20px 0 0;
   max-width: 100%;
@@ -477,6 +481,7 @@ ul {
   color: #000000;
   mix-blend-mode: normal;
 }
+
 .check-description {
   padding-left: 33px;
   margin-top: 12px;
@@ -487,6 +492,7 @@ ul {
   color: #7d7987;
   mix-blend-mode: normal;
 }
+
 .check-link {
   padding-left: 33px;
   font-weight: 600;
@@ -495,6 +501,7 @@ ul {
   color: #4089ed;
   mix-blend-mode: normal;
 }
+
 .check-view-all {
   display: inline-block;
   margin-top: 72px;
@@ -538,6 +545,7 @@ ul {
 .footer-content {
   margin-top: 30px;
 }
+
 .footer-logo-link {
   color: #fff;
   text-decoration: none;
