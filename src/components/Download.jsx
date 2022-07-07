@@ -5,9 +5,7 @@ function Download() {
     <div className='container download'>
       <div className='download-content'>
         <h3 className='download-title'>Download our mobile apps</h3>
-
         <hr className='download-line' />
-
         <p className='download-text'>
           Our dedicated patient engagement app and web portal allow you to
           access information instantaneously (no tedeous form, long calls, or
