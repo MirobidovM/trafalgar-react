@@ -1,6 +1,6 @@
 import download from '../assets/img/download.png';
 
-function Download() {
+export const Download = () => {
   return (
     <div className='container download'>
       <div className='download-content'>
@@ -26,6 +26,4 @@ function Download() {
       />
     </div>
   );
-}
-
-export { Download };
+};

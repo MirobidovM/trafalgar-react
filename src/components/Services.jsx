@@ -5,7 +5,7 @@ import info from '../assets/img/info.svg';
 import aptechka from '../assets/img/aptechka.svg';
 import rezume from '../assets/img/rezume.svg';
 
-function Services() {
+export const Services = () => {
   return (
     <div className='container services'>
       <h2 className='services-title'>Our services</h2>
@@ -119,6 +119,4 @@ function Services() {
       </a>
     </div>
   );
-}
-
-export { Services };
+};

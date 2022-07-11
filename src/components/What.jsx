@@ -1,6 +1,6 @@
 import what from '../assets/img/what.jpg';
 
-function What() {
+export const What = () => {
   return (
     <div className='container what'>
       <h3 className='what-title'>What our customer are saying</h3>
@@ -27,6 +27,4 @@ function What() {
       </div>
     </div>
   );
-}
-
-export { What };
+};

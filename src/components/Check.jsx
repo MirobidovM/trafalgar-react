@@ -2,7 +2,7 @@ import ukol from '../assets/img/ukol.jpg';
 import durbin from '../assets/img/durbin.jpg';
 import maska from '../assets/img/maska.jpg';
 
-function Check() {
+export const Check = () => {
   return (
     <div className='container check'>
       <h2 className='check-title'>Check out our latest article</h2>
@@ -88,6 +88,4 @@ function Check() {
       </a>
     </div>
   );
-}
-
-export { Check };
+};

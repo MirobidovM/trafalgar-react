@@ -1,6 +1,6 @@
 import whatArow from '../assets/img/arow.svg';
 
-function WhatArow() {
+export const WhatArow = () => {
   return (
     <div className='what-arow'>
       <a className='what-arow-link' href='/'>
@@ -14,6 +14,4 @@ function WhatArow() {
       </a>
     </div>
   );
-}
-
-export { WhatArow };
+};

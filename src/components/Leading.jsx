@@ -1,6 +1,6 @@
 import leading from '../assets/img/leading.png';
 
-function Leading() {
+export const Leading = () => {
   return (
     <div className='container leading'>
       <img
@@ -26,6 +26,4 @@ function Leading() {
       </div>
     </div>
   );
-}
-
-export { Leading };
+};

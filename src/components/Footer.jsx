@@ -1,6 +1,6 @@
 import logo from '../assets/img/logo-white.svg';
 
-function Footer() {
+export const Footer = () => {
   return (
     <div className='container-footer'>
       <div className='footer'>
@@ -46,6 +46,4 @@ function Footer() {
       </div>
     </div>
   );
-}
-
-export { Footer };
+};

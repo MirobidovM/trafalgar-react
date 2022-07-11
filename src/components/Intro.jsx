@@ -1,6 +1,6 @@
 import logo from '../assets/img/intro.png';
 
-function Intro() {
+export const Intro = () => {
   return (
     <div className='container intro'>
       <div className='intro-content'>
@@ -24,6 +24,4 @@ function Intro() {
       />
     </div>
   );
-}
-
-export { Intro };
+};
