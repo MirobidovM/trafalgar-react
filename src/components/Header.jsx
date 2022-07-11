@@ -1,6 +1,6 @@
 import logo from '../assets/img/logo-dark.svg';
 
-function Header() {
+export const Header = () => {
   return (
     <div className='container header'>
       <a className='header-logo' href='/'>
@@ -46,6 +46,4 @@ function Header() {
       </ul>
     </div>
   );
-}
-
-export { Header };
+};
