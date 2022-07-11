@@ -11,7 +11,7 @@ import { WhatArow } from './components/WhatArow';
 import { Check } from './components/Check';
 import { Footer } from './components/Footer';
 
-function App() {
+export const App = () => {
   return (
     <>
       <Header />
@@ -25,6 +25,4 @@ function App() {
       <Footer />
     </>
   );
-}
-
-export default App;
+};
