@@ -90,4 +90,4 @@ function Check() {
   );
 }
 
-export default Check;
+export { Check };
