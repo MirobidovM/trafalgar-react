@@ -15,15 +15,10 @@ export const App = () => {
   return (
     <>
       <Header />
-
       <Intro />
-
       <Services />
-
       <Leading />
-
       <Download />
-
       <What />
       <WhatArow />
       <Check />
