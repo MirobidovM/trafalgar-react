@@ -21,7 +21,6 @@ export const App = () => {
       <Download />
       <What />
       <WhatArow />
-
       <Check />
       <Footer />
     </>
