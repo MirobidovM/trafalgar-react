@@ -9,6 +9,7 @@ import { Download } from './components/Download';
 import { What } from './components/What';
 import { WhatArow } from './components/WhatArow';
 import { Check } from './components/Check';
+
 import { Footer } from './components/Footer';
 
 export const App = () => {
