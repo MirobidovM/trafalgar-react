@@ -15,7 +15,6 @@ export const App = () => {
   return (
     <>
       <Header />
-
       <Intro />
       <Services />
       <Leading />
